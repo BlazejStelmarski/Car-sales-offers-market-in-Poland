@@ -1,4 +1,4 @@
-Hi, my name is Błażej Stelmarski , and this is my repository, which is the result of my master's thesis project.
+Hi, my name is Błażej Stelmarski, and this is my repository, which is the result of my master's thesis project.
 
 It contains:
 
